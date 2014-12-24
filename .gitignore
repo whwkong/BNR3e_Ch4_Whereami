@@ -1,0 +1,4 @@
+#ignore custom user data
+Ch4_Whereami_xib/Ch4_Whereami_xib.xcodeproj/project.xcworkspace
+Ch4_Whereami_xib/Ch4_Whereami_xib.xcodeproj/xcuserdata
+
